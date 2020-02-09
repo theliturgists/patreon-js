@@ -1,5 +1,5 @@
 {
-  "name": "patreon",
+  "name": "@theliturgists/patreon",
   "version": "0.4.1-1",
   "description": "Use the Patreon API via OAuth.",
   "main": "dist/index.js",
