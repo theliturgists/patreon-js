@@ -1,5 +1,5 @@
 import fetch from 'isomorphic-fetch'
-import { JsonApiDataStore } from 'jsonapi-datastore'
+import { JsonApiDataStore } from '@theliturgists/jsonapi-datastore'
 import { normalizeRequest, checkStatus, getJson, userAgentString } from './utils'
 
 function patreon(accessToken) {

@@ -27,10 +27,10 @@
   },
   "homepage": "https://github.com/patreon/patreon-js#readme",
   "dependencies": {
+    "@theliturgists/jsonapi-datastore": "^0.4.0-beta-3",
     "form-urlencoded": "^2.0.4",
     "is-plain-object": "^2.0.4",
-    "isomorphic-fetch": "^2.2.1",
-    "jsonapi-datastore": "^0.4.0-beta"
+    "isomorphic-fetch": "^2.2.1"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
